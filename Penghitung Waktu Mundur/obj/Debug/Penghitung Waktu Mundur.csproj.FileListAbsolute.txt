@@ -1,0 +1,9 @@
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\bin\Debug\Penghitung Waktu Mundur.exe
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\bin\Debug\Penghitung Waktu Mundur.pdb
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\obj\Debug\Penghitung Waktu Mundur.csprojAssemblyReference.cache
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\obj\Debug\Penghitung_Waktu_Mundur.mainForm.resources
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\obj\Debug\Penghitung_Waktu_Mundur.Properties.Resources.resources
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\obj\Debug\Penghitung Waktu Mundur.csproj.GenerateResource.cache
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\obj\Debug\Penghitung Waktu Mundur.csproj.CoreCompileInputs.cache
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\obj\Debug\Penghitung Waktu Mundur.exe
+F:\Computer\Visual Studio\2017 Community\C#\Penghitung Waktu Mundur\Penghitung Waktu Mundur\obj\Debug\Penghitung Waktu Mundur.pdb
